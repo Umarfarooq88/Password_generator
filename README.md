@@ -13,7 +13,7 @@ Built using Java Swing
 
 ### Development Tools :computer:
 - Java SDK
-- NetBeans IDE
+- IntelliJ IDE
 
 ## Screenshots
 ![screenshot1](https://user-images.githubusercontent.com/37250413/104091318-a74db780-52a2-11eb-8275-f215343a3071.jpg)
@@ -27,8 +27,7 @@ Built using Java Swing
 2. Download the repository files from the Download section or clone this project.
 3. Import it to any Java IDE and run the application.
 
-### Bugs and Feedback
-For bugs, questions and discussions, please use the <a href="https://github.com/reshmaharidhas/Password-Generator/issues">GitHub issues</a>
+
 
 
 
