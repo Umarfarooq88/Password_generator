@@ -7,6 +7,7 @@ Built using Java Swing
 
 ### Programming language
 - Java
+- Java swing
 
 ### Development Tools :computer:
 - Java SDK
